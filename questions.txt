@@ -1,0 +1,72 @@
+The keyword to write a funciton in Python is...
+class
+import
+def
+in
+def
+To import all functions in a module, which character should be used?
+%
+&
+/
+*
+*
+Which of these methods is called automatically when an object is destroyed?
+__init__
+del
+__del__
+del[]
+__del__
+To create a dictionary, which symbols should be used?
+[]
+{}
+()
+<>
+{}
+The syntax of a function with two parameters name and age with default value 5:
+foo(name, age)5
+foo(age = 5, name)
+foo(name, age5)
+foo(name, age = 5)
+foo(name, age = 5)
+Which is the correct sytanx to inherit a class?
+class Child:Parent
+class Child(Parent)
+class Parent(Child)
+class Child/Parent
+class Child(Parent)
+Which word should be passed as a first parameter in all class methods?
+ref
+object
+self
+var
+self
+Which option has a syntax error?
+list1[:] = list2
+if 0 < x < 5:
+print("Hello" + 5)
+print("Hello", "world")
+print("Hello" + 5)
+What is the output of print(5 // 2)
+2
+2.5
+2.0
+5/2
+2
+To return multiple return values, which data type is used?
+list
+dictionary
+class
+tuple
+tuple
+The output for print(3 ** 2) is...
+6
+9
+32
+23
+9
+Which one is the logical "and" in Python?
+&&
+and
+&
+||
+and

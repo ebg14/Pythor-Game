@@ -1,0 +1,11 @@
+References
+• Implementations of pygame functions:
+https://www.pygame.org/news
+• To move the enemies in a circular path:
+https://python-forum.io/Thread-Moving-an-object-in-a-circular-path
+• Aseprite:
+https://www.aseprite.org/
+• Sfxr:
+http://www.drpetter.se/project_sfxr.html
+• Background Music:
+https://www.dl-sounds.com/royalty-free/motivated/
